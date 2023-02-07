@@ -7,7 +7,7 @@ const app = express()
 
 /*useNewUrlParser allows users to fall back to the old parser if they find a bug in the new parser.*/
 /*Unified Topology allows you to see and visualize all of the health details of your network in a single pane.*/
-mongoose.connect('mongodb://localhost/urlShortener', {
+mongoose.connect('mongodb+srv://ShivankKapur:12345@cluster0.z3zi5an.mongodb.net/?retryWrites=true&w=majority', {
     useNewUrlParser:true , useUnifiedTopology: true
 })
 
