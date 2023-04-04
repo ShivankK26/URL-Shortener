@@ -1,5 +1,3 @@
-# URL-Shortener
-
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
