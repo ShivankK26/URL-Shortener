@@ -87,7 +87,7 @@ In order to create a URL Shortener we'll shortId.generate command to generate a 
 
 
 ```sh
-  // This is an object inside the mongoDB schema object.
+  // This is inside the mongoDB schema object.
   short: {
         type: String,
         required: true,
